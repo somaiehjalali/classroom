@@ -2,6 +2,7 @@ void main(){
 
 }
 
+// abstract class
 abstract class StateLessWidget{
   void build(String context);
 }
